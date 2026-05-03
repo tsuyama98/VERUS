@@ -1,0 +1,11 @@
+{
+  "name": "AutoTerminal",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultLocation": "editor"
+      }
+    }
+  },
+  "postAttachCommand": "echo 'Terminal auto kebuka'"
+}
